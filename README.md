@@ -27,9 +27,9 @@ To run the code, run the following command:
 python stock_prediction.py
 ```
 
-![Dataset](images/dataset1.PNG)
+![Dataset](images/dataset1.png)
 
-![Closing Prices](images/dataset.PNG)
+![Closing Prices](images/dataset.png)
 
 I have developed the code in following steps:
 (1) Firstly I have impported the dataset and split the data using training and testing data
@@ -52,11 +52,11 @@ I have developed the code in following steps:
 
 (5) Then at last, I have calculated error and accuracy of our model and visualised our predicted output with the original output.
 
-![Accuracy](images/accuracy.PNG)
+![Accuracy](images/accuracy.png)
 
-![Final output](images/ouput.PNG)
+![Final output](images/ouput.png)
 
-![Stock Predictions](images/result.PNG)
+![Stock Predictions](images/result.png)
 
-![Stock Predictions](images/predicted.PNG)
+![Stock Predictions](images/predicted.png)
 
