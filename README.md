@@ -24,7 +24,7 @@ pip install numpy pandas scikit-learn tensorflow
 
 To run the code, run the following command:
 ```sh
-python stock_prediction.py
+python stock3-final.py
 ```
 
 ![Dataset](images/dataset1.png)
