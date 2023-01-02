@@ -54,7 +54,7 @@ I have developed the code in following steps:
 
 ![Accuracy](images/accuracy.png)
 
-![Final output](images/output.png)
+![Final output](images/final.png)
 
 ![Stock Predictions](images/result.png)
 
